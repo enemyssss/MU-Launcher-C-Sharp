@@ -1,0 +1,59 @@
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.exe
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.pdb
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.resources
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Properties.Resources.resources
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.exe
+c:\users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.pdb
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\bg-BG\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.bg-BG.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\bg-BG\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\ru\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.ru.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\ru\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\es\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.es.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\es\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.exe
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.pdb
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\bg-BG\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\es\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\ru\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csprojAssemblyReference.cache
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Properties.Resources.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csproj.GenerateResource.cache
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csproj.CoreCompileInputs.cache
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\bg-BG\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\es\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\ru\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.exe
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.pdb
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.exe.config
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\en\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\en\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\bg\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\bg\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\pl-PL\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\pl-PL\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\MuOnlineLauncher.exe.config
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\bg\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\en\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\pl-PL\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.bg.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.en.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.Launcher.pl-PL.resources
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\bg\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\en\MuOnlineLauncher.resources.dll
+C:\Users\test\documents\visual studio 2010\Projects\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\pl-PL\MuOnlineLauncher.resources.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.csproj.CopyComplete
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.bg-BG.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.bg.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.en.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.es.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.pl-PL.resources
+D:\LEO\MuOnlineLauncher\MuOnlineLauncher\obj\x86\Debug\MuOnlineLauncher.LauncherMenu.ru.resources
