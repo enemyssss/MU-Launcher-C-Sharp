@@ -1,5 +1,10 @@
 # MU-Launcher-C-Sharp
 Mu Online Launcher Project in C#
+
+
+![Launcher IMG](https://github.com/enemyssss/MU-Launcher-C-Sharp/blob/master/LauncherIMAGE.png?raw=true)
+
+
 Info:
 In Launcher/config.ini -
 1. ServerVersion= 0/1 - 0 for old versions like 97d /// 1 for versions season 1+
